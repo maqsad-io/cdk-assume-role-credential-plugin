@@ -1,6 +1,6 @@
 {
-  "name": "cdk-assume-role-credential-plugin",
-  "version": "1.0.0",
+  "name": "maq-cdk-assume-role-credential-plugin",
+  "version": "2.0.0",
   "description": "A CDK credential plugin",
   "repository": {
     "type": "git",
